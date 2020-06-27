@@ -3,6 +3,7 @@
 Application intended to demonstrate the use of following technologies to create a API to get the details of product from H2 Database.
 - Spring Boot
 - Spring REST
+- Spring Data/JPA 
 - Java8
 - Maven
 - MapStruct
