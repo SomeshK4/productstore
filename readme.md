@@ -1,10 +1,14 @@
 # Product Store Application
 ## Introduction
-Application intended to demonstrate the use of Spring Boot,Spring REST, Java8, Maven, MapStruct, Embedded H2 Database with Docker and Docker compose file. 
+Application intended to demonstrate the use of following technologies to create a API to get the details of product from H2 Database.
+- Spring Boot
+- Spring REST
+- Java8
+- Maven
+- MapStruct
+- Embedded H2 Database
+- Docker and Docker compose. 
 
-## Prequisites
-1. Maven
-2. Java 8
 
 ### Steps to run the application
 1. cd productstore
